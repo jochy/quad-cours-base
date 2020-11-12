@@ -6,3 +6,6 @@
 
 # Generate coverage report
 `pytest --cov-report html --cov=.`
+
+# Run cucumber tests
+`behave test/features --color`
