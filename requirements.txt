@@ -4,3 +4,4 @@ pytest-mock
 selenium
 behave
 phantomjs-binary
+chromedriver-binary==86.0.4240.22.0
